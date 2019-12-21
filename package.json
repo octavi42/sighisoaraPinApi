@@ -1,0 +1,10 @@
+{
+    "scrips": {
+        "start": "node server.js"
+    },
+    "name": "api_text",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
